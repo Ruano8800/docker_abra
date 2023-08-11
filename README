@@ -1,0 +1,3 @@
+docker image for abra2 - Assembly Based ReAligner
+
+run with "/usr/bin/java -jar /opt/abra/abra2.jar --PARAMS"
